@@ -1,4 +1,4 @@
-![GitHub Cover Poster](./musbabaff-cover.svg)
+![GitHub Cover Poster](./musbabaff-cover_auto_x2.jpg)
 
 ##
 
