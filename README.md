@@ -23,13 +23,5 @@ I specialize in building high-performance Minecraft systems, ranging from comple
 | **Databases** | Redis, MySQL, MariaDB, MongoDB |
 | **DevOps & Tools** | Git, Docker, Maven, Gradle, IntelliJ IDEA |
 
----
-
-### 🌟 Featured Projects
-
-* 🛠 **[Project Name]** - A brief description of what this plugin/tool does and which API it uses.
-* 📦 **[Project Name]** - Describe the problem this project solves for server owners.
-
-
 
 *Built with ❤️ by musbabaff*
