@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm musbabaff! 👋
 ### 🛠 Minecraft Developer | Java & Kotlin Enthusiast
 
 I specialize in building high-performance Minecraft systems, ranging from complex backend plugins to unique gameplay mechanics. I focus on creating scalable solutions for modern Minecraft networks.
@@ -22,13 +22,6 @@ I specialize in building high-performance Minecraft systems, ranging from comple
 | **APIs** | Paper, Spigot, Velocity, Advent (Kyori), Folia |
 | **Databases** | Redis, MySQL, MariaDB, MongoDB |
 | **DevOps & Tools** | Git, Docker, Maven, Gradle, IntelliJ IDEA |
-
----
-
-### 📊 GitHub Statistics
-
-![musbabaff's Stats](https://github-readme-stats.vercel.app/api?username=musbabaff&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musbabaff&layout=compact&theme=tokyonight)
 
 ---
 
