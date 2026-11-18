@@ -22,7 +22,7 @@ I build systems that have to stay up — and products people actually use.
 - 🏢 **Founder & CTO, [Sydnar Technologies](https://sydnar.com)** — web platforms, SaaS and AI integration
 - 🎮 **Founder & CTO, NettyForge** — high-load game server infrastructure on Java & Netty
 - ⚙️ **11+ years** of backend (Java, Node.js, Python) · **5+ years** of modern full-stack (Next.js, React, TypeScript)
-- 🔭 Currently building **Baton** — open-source tooling for sharing and continuing AI work across accounts
+- 🔭 Currently building **Baton** — tooling for sharing and continuing AI work across accounts *(open-source release coming soon)*
 - 📍 Denizli, Türkiye · originally from Baku, Azerbaijan
 - 💬 Ask me about distributed backends, Minecraft network architecture, or taking an AI-built app to production
 
@@ -45,6 +45,9 @@ I build systems that have to stay up — and products people actually use.
 | Project | What it is | Stack |
 |---|---|---|
 | **[Menhir](https://github.com/musbabaff/Menhir)** | Paper plugin for breakable leaderboard stones — native TextDisplay holograms, zero heavy dependencies | Java · Paper |
+| **[travertine](https://github.com/musbabaff/travertine)** | NASA Space Apps Challenge 2026 project: compares 3–5 year crop rotations for one field against its own NASA POWER climate, SoilGrids soil and MODIS vegetation record | Next.js · TypeScript · Python · FastAPI |
+| **[Sift](https://github.com/musbabaff/Sift)** | Hybrid semantic + keyword search over multilingual (AZ/RU/EN) news articles, with a Telegram bot | Next.js · TypeScript · Supabase (pgvector) · OpenAI |
+| **[mEvents](https://github.com/musbabaff/mEvents)** | Paper plugin that runs scheduled MythicMobs boss events and protects each fight with an auto-created WorldGuard region | Java · Paper · MythicMobs · WorldGuard |
 | **NettyForge** | Game server infrastructure: proxies, networking, high-concurrency services | Java · Netty |
 
 ### 🏆 Hackathons
