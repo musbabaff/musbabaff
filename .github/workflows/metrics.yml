@@ -1,0 +1,42 @@
+name: Generate GitHub metrics
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 15
+    steps:
+      # Output goes to its own "metrics" branch: the snake workflow force-pushes
+      # the "output" branch with only its dist/ files, which would delete this SVG.
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: musbabaff
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          template: classic
+          config_timezone: Europe/Istanbul
+          config_display: large
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
