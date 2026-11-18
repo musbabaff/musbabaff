@@ -1,72 +1,76 @@
-<h1 align="center">Hi, I'm Mustafa 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · AI Product Builder</h3>
-
+<!-- Header -->
 <p align="center">
-  I build complete products — from AI-powered SaaS platforms and web applications<br/>
-  to high-load backend systems. Founder of <b>Sydnar Technologies</b> & <b>NettyForge</b>.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:6366f1&height=200&section=header&text=Mustafa%20Babayev&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%C2%B7%20Systems%20Engineer%20%C2%B7%20Builder&descAlignY=58&descSize=16" alt="Mustafa Babayev" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Engineer-22D3EE?style=flat-square" alt="Full-Stack"/>
-  <img src="https://img.shields.io/badge/AI-Product%20Builder-A78BFA?style=flat-square" alt="AI"/>
-  <img src="https://img.shields.io/badge/Based%20in-Baku,%20AZ-34D399?style=flat-square" alt="Location"/>
+  <a href="https://musbabaff.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=640&lines=11%2B+years+of+backend+engineering;High-load+Java+%2F+Netty+game+infrastructure;Full-stack+SaaS+with+Next.js+%2B+TypeScript;Shipping+AI-native+products+from+T%C3%BCrkiye" alt="Typing SVG" /></a>
 </p>
-
+<p align="center">
+  <a href="https://musbabaff.com"><img src="https://img.shields.io/badge/Portfolio-musbabaff.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/musbabaff"><img src="https://img.shields.io/badge/LinkedIn-musbabaff-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/musbabaff/"><img src="https://img.shields.io/badge/Instagram-musbabaff-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:musbabaff@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 ---
-
-### 🚀 What I Do
-
-I design and ship full products end-to-end — architecture, backend, frontend, AI integration, and deployment. My focus is on **AI-powered applications** and **scalable web platforms** that solve real problems, not just demos.
-
-- **🤖 AI Product Engineering** — Building intelligent applications with LLMs: multi-agent systems, semantic/vector search (pgvector), document intelligence, and natural-language interfaces. Provider-agnostic across Claude, OpenAI, and Gemini.
-- **🌐 Full-Stack Web & SaaS** — End-to-end platforms with **Next.js, TypeScript, React, Tailwind**, secure auth, RBAC, and clean, premium UI/UX.
-- **⚙️ Backend & Infrastructure** — High-load, real-time backend systems in **Java, Node.js, and Go**, with a strong focus on performance, reliability, and clean architecture.
-- **📊 Data & Persistence** — Designing robust data layers with **PostgreSQL, Supabase, MySQL, and Redis**.
-
+ 
+### 👋 About
+ 
+I build systems that have to stay up — and products people actually use.
+ 
+- 🏢 **Founder & CTO, [Sydnar Technologies](https://sydnar.com)** — web platforms, SaaS and AI integration
+- 🎮 **Founder & CTO, NettyForge** — high-load game server infrastructure on Java & Netty
+- ⚙️ **11+ years** of backend (Java, Node.js, Python) · **5+ years** of modern full-stack (Next.js, React, TypeScript)
+- 🔭 Currently building **[Baton](https://github.com/musbabaff/baton)** — open-source tooling for sharing and continuing AI work across accounts
+- 📍 Denizli, Türkiye · originally from Baku, Azerbaijan
+- 💬 Ask me about distributed backends, Minecraft network architecture, or taking an AI-built app to production
 ---
-
-### 🏆 Featured Projects
-
-- **🧠 Claril** — An AI-powered document intelligence platform. Upload documents → AI extraction → multi-agent analysis with live reasoning → audit-ready reports. Built with Next.js 15, Supabase, multi-provider AI, full admin panel, and multi-language support.
-
-- **🔍 Sift** — An AI news intelligence engine. Natural-language, date-aware hybrid search (semantic + keyword) over 20K+ multilingual articles, with entity extraction and a Telegram bot. Built for the Neurotime AI challenge.
-
-- **🛠️ NettyForge** — A SaaS ecosystem for multiplayer server infrastructure: automated licensing, payment webhook integrations, and real-time operational tooling.
-
-- **💼 Sydnar Technologies** — My software company, delivering web platforms, SaaS products, and AI integrations for clients.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **AI / LLM** | Claude (Anthropic), OpenAI, Gemini, pgvector, embeddings, multi-agent systems |
-| **Frontend** | Next.js, React, TypeScript, TailwindCSS, Framer Motion, shadcn/ui |
-| **Backend** | Java, Node.js, Go, PHP / Laravel, REST APIs |
-| **Databases** | PostgreSQL, Supabase, MySQL, Redis |
-| **DevOps & Tools** | Git, Docker, GitHub Actions, Vercel, Linux (VDS) |
-
----
-
-### 📫 Connect
-
+ 
+### 🧰 Stack
+ 
 <p align="left">
-  <a href="mailto:musbabaff@gmail.com">
-    <img src="https://img.shields.io/badge/Email-musbabaff@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/musbabaff">
-    <img src="https://img.shields.io/badge/GitHub-musbabaff-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,go,python,nodejs,ts,js,php&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,fastapi,electron,supabase,postgres&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=redis,mysql,docker,nginx,linux,gradle,git,githubactions&perline=8" />
 </p>
-
-<br/>
-
+---
+ 
+### 🚀 Featured work
+ 
+| Project | What it is | Stack |
+|---|---|---|
+| **[Baton](https://github.com/musbabaff/baton)** | Open-source: share an AI conversation so someone else can continue it on their own subscription, plus a curated skill pack | TypeScript · MCP |
+| **[Menhir](https://github.com/musbabaff/Menhir)** | Paper plugin for breakable leaderboard stones — native TextDisplay holograms, zero heavy dependencies | Java · Paper |
+| **[MarinMC Launcher](https://github.com/musbabaff/marinmc-launcher)** | Custom Minecraft launcher for a game network | Electron · React · TS |
+| **NettyForge** | Game server infrastructure: proxies, networking, high-concurrency services | Java · Netty |
+ 
+### 🏆 Hackathons
+ 
+- **Top 4** — Bakı Metro Hakaton 2026 · *MetroNom*, a digital twin for the Baku Metro (FastAPI, DuckDB, YOLOv8)
+- **NASA Space Apps Challenge 2026** — Denizli · Team *Travertine*
+- **AmCham × Neurotime Hackathon** — *Sift*, multilingual AI news search over 20K articles
+---
+ 
+### 📊 GitHub
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musbabaff&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musbabaff&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=musbabaff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=a5b4fc&icon_color=6366f1&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musbabaff&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=a5b4fc&text_color=c9d1d9" />
 </p>
-
 <p align="center">
-  <i>Building complete products, one system at a time.</i>
+  <img src="https://streak-stats.demolab.com?user=musbabaff&hide_border=true&theme=transparent&ring=6366F1&fire=A5B4FC&currStreakLabel=A5B4FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musbabaff/musbabaff/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/musbabaff/musbabaff/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+---
+ 
+<p align="center">
+  <sub>Open to selected freelance work and collaborations — <a href="mailto:musbabaff@gmail.com">musbabaff@gmail.com</a></sub>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1f2937,100:0d1117&height=110&section=footer" width="100%" />
+ 
