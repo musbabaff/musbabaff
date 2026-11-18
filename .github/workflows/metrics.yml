@@ -34,9 +34,14 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
+          # achievements and habits are disabled: both crash in lowlighter/metrics 3.34
+          # ("Unexpected error" in the image). Achievements still queries the removed
+          # Projects (classic) API (upstream #1706); habits fails on PushEvent payloads
+          # without commits (upstream #1807). Fixes are in unmerged PRs #1834 / #1807.
+          # Re-enable these once an upstream release includes them:
+          # plugin_achievements: yes
+          # plugin_achievements_display: compact
+          # plugin_achievements_threshold: B
+          # plugin_habits: yes
+          # plugin_habits_charts: yes
+          # plugin_habits_facts: no

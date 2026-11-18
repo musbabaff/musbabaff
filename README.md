@@ -61,12 +61,7 @@ I build systems that have to stay up — and products people actually use.
 ### 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=musbabaff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=a5b4fc&icon_color=6366f1&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musbabaff&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=a5b4fc&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=musbabaff&hide_border=true&theme=transparent&ring=6366F1&fire=A5B4FC&currStreakLabel=A5B4FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img src="https://raw.githubusercontent.com/musbabaff/musbabaff/metrics/github-metrics.svg" width="100%" alt="GitHub metrics" />
 </p>
 
 <p align="center">
